@@ -1,18 +1,19 @@
 ${c1}
-NNNNNNNNNNNNNNNNNNNNNN	 NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
-NNNNNNNNNNNNNNNNNmh  NNd  hhymNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
-NNNNNNNNNNNNNNNNNN   N   N  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
-NNNNNNNNNNNNNNNNNh  N    N  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
-NNNNNNNNNNNNNNNNN   NNN      NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
-NNNNNNNNNNNNNNNmm			 mmmNNNNNNNNNNNddmNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
-NNNNNNNNNNNNNNN  yhhhNNNNdhhh  dNNNNNNNNNNN.`/NNNNNNNNNNNNNNNNNNNNNNNNNNNNN
-NNNNNNNNNNNNNNN  dNNNNNNNNNNm  dNNNNNNNNmmm` :NNNNNNNmmmNNNNNNNNNNNNNmmNNNN
-NNNNNNNNNNNNNNN  dNNNNNNNNNNm  dNNNNNy/-.--  :NNNNms:--.-+hNNNN+--h/-.-/dNN
-NNm         NNN  dNNNNNNNNNNm  dNNNN:  /yhy  :NNNd- .shy: `sNNN/  `:ss` .NN
-NN  ymNNNNNNNNN  dNNNNNNNNNNm  dNNNs  /NNNN` :NNN:  +ssso  .NNN/  oNNNs//mN
-NN  yNNNNNNNNNN  dNNNNNNNNNNm  dNNN+  sNNNN` :NNN.  ://////+NNN/  hNNNNNNNN
-NNh  dNNNNNNNNN  dNNNNNNNNNNm  dNNNy  :mNm/  :NNN+  omNNNNmNNNN/  hNNNNNNNN
-NNNh        NNN  dNNNNNNNNNNm  dNNNN+  .-`.. :NNNN+` .:::--dNNN/  hNNNNNNNN
-NNNNNmdddmmNNNN  dNNNNNNNNNNm  dNNNNNdsoshNhyhNNNNNmhsoos  NNNNh  mNNNNNNNN
-NNNNNNNNNNNNNNN  			   dNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
-NNNNNNNNNNNNNNNhhhhhhNNNNdhhhhhmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+                      -:-                                                  
+                 .:/.  -/..:/.                                             
+                  -/- :/.  -/.                                             
+                 :/. ./:- ::                                               
+                 -::   .. -::                                              
+               ...--.    ..--...           --.                             
+               ///:::    -::://-           mNy                             
+               //-          .//-        ...NMh       ...             ..    
+    -::::::.   //-          .//-     /ydmddMMh    .+hddmds:    sdd:ydmdy-  
+  .///--.--.   //-          .//-    hMMy/:/MMh   -dMm+:/hMN+   yMMNh++NMm  
+  ///.         //-          .//-   +MMy    NMh   hMMs+++oMMm   yMMo   +yy. 
+  ///          //-          .//-   sMM+    NMh   mMMhyyyyyys   yMM:        
+  ://-         //-          .//-   /MMh. .yMMh   sMMo.    .    yMM:        
+   :///:::/-   //-          .//-    sMMmdNmmMh    sNMmhhhdd-   yMM:        
+     .---..    //-          .//-     -+o+: :/:     .:+oo+//    ://.        
+               //:---    .---//-                                           
+               ::::::    -:::::.                                           
+                                                                           

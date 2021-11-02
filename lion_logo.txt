@@ -1,19 +1,19 @@
-${c1}
-NNNNNNNNNNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
-NNNNNNNNNNNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdmmmmmmmmmmmmmmmmmmmmmmmmmmm
-NNNNNNNNNNNNNmmmmmmmmmmmmdysyyyhhdddmmmdddhhyyysydmmmmmmmmmmmmmmmmmmmmmmmmm
-NNNNNNNNNNNNNNmmmmmmmmmmhsssssssssssyhysssssssssssydmmmmmmmmmmmmmmmmmmmmmmm
-NNNNNNNNNNNNNNNmmmmmmmdssssssssssssssssssssssssssssshmmmmmmmmmmmmmmmmmmmmmm
-NNNNNNNNNNNNNNNNNmmmmmddhhyyyhysssssssssssssyhyyyhhddmmmmmmmmmmmmmmmmmmmmmm
-NNNNNNNNNNNNNNNNNmmmmmmmmmddmmmmmdsssssssdmmmmdhhmmmmmmmmmmmmmmmmmmmmmmmmmm
-NNNNNNNNNNNNNNNNNNNmmmmmmo` /syyhmsssssssmhyys: `ommmmmmmmmmmmmmmmmmmmmmmmm
-NNNNNNNNNNNNNNNNNNNNNmmmmo      smsssssssms      ommmmmmmmmmmmmmmmmmmmmmmmm
-NNNNNNNNNNNNNNNNNNNNNNNmmmhyy  +mmhyysyyhmm+  syymmmmmmmmmmmmmmmmmmmmmmmmmm
-NNNNNNNNNNNNNNNNNNNNNNmmmmmmo   :oyhmmmhyo:   ommmmmmmmmmmmmmmmmmmmmmmmmmmm
-NNNNNNNNNNNNNNNNNNNNNNNNmmmm/       .:.       /mmmmmmmmmmmmmmmmmmmmmmmmmmmm
-NNNNNNNNNNNNNNNNNNNNNNNNNNNNhy`  `+hmmdh+`  `yhmmmmmmmmmmmmmmmmmmmmmmmmmmmm
-NNNNNNNNNNNNNNNNNNNNNNNNNNNNmmy-oyos/./soyo-ymmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
-NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmh`     .ymmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
-NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNh..  /hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
-NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNdd/:mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
-NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmdNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+${c1}                                                                           
+       -                  -                           
+    -/+///::---   ---::///+/-                         
+   :+++++++++++/:/+++++++++++/-                       
+ -+++++++++++++++++++++++++++++:                      
+ --::///:/+++++++++++++/:///::--                      
+     --     -+++++++-    -::                          
+    oNMy+//: +++++++ ://+hMNo                         
+    oMMMMMM+ +++++++ +MMMMMMo                         
+     ://MMs  ://+//:  sMM+//                          
+       oMMMho/:   :/ohMMMo                            
+       yMMMMMMMmhmMMMMMMMy                            
+       :/NMMNs:  -:sNMMN/:                            
+         /do/o+ymy+o/od/                              
+            :NMMMMMm/                                 
+             :mmMMy:                                  
+              --yh                                    
+                 -                                    
+                                                                           
